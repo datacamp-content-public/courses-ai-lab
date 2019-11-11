@@ -38,5 +38,5 @@ print(8+10)
 
 `@sct`
 ```{python}
-Ex().has_output(18, pattern=False)
+Ex().has_output(18, pattern=True)
 ```
