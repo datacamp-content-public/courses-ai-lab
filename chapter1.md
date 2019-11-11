@@ -38,5 +38,5 @@ print(8+10)
 
 `@sct`
 ```{python}
-Ex().check_function("print").has_equal_output()
+Ex().check_function("print").has_equal_output(18)
 ```
